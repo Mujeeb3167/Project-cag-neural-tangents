@@ -1,0 +1,15 @@
+{
+  "function_mse": 0.001130577060393989,
+  "function_mae": 0.021618211641907692,
+  "function_rmse": 0.03362405478811247,
+  "function_r_squared": 0.9999920725822449,
+  "function_max_error": 0.2586784362792969,
+  "slope_error": 0.13311294844063448,
+  "intercept_error": 0.21401485095926587,
+  "tangent_line_mse": 0.024068646132946014,
+  "derivative_mse": 0.3697049617767334,
+  "derivative_mae": 0.32723280787467957,
+  "derivative_rmse": 0.6080336847385459,
+  "derivative_r_squared": 0.9964054822921753,
+  "derivative_max_error": 7.452564239501953
+}

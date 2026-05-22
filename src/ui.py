@@ -145,13 +145,7 @@ st.markdown("""
         margin: 0.5rem 0;
     }
     
-    /* Sidebar styling */
-    section[data-testid="stSidebar"] {
-        background: #f0f2f6;
-    }
-    section[data-testid="stSidebar"] .stMarkdown {
-        color: #31333F;
-    }
+    /* Sidebar styling removed to support both Light and Dark modes natively */
     
     /* Hide hamburger menu and footer */
     #MainMenu {visibility: hidden;}
